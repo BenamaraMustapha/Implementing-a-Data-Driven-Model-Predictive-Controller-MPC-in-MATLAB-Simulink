@@ -154,7 +154,7 @@ The developed subsystem incorporates a script, denoted by "myfun," which facilit
     uc=Uo(1:mu);
     Z=[uc;yh];
     end
-//
+
 
 The provided code is integral to understanding data-driven Model Predictive Control (MPC) within the developed Simulink subsystem. Here are the key features:
 
