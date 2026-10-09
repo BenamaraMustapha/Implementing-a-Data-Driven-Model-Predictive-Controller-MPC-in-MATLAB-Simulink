@@ -50,7 +50,7 @@ Subsequently, the performance of the controller is evaluated by displaying the s
 
 <img src="https://github.com/BenamaraMustapha/Implementing-a-Data-Driven-Model-Predictive-Controller-MPC-in-MATLAB-Simulink/assets/119163433/cb30ac73-dfdb-4a10-85be-bd2a762d0da3">
 
-ChatGPT
+
 
 The controller demonstrates effective control over the system, as evidenced by the results.
 
